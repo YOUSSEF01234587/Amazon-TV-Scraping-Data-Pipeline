@@ -56,12 +56,10 @@ Created custom visual dashboards and charts to analyze pricing trends, brand dis
 ![Data Analysis Dashboard 2](Dashboard/2.png)
 
 ---
-
 ## 📁 Repository Structure
 
 As shown in the project setup, the repository follows a clean and professional architecture:
 
-```text
 ├── Data/            # Cleaned datasets exported in CSV, Excel, and JSON formats.
 ├── Databases/       # Relational database storage files (MySQL .sql script & SQLite .db file).
 ├── Notebook/        # Core Jupyter Notebook containing the web scraping and Pandas pipeline.
@@ -74,7 +72,11 @@ As shown in the project setup, the repository follows a clean and professional a
 ## 📊 Skills Demonstrated
 
 - Web Scraping & Automation
+
 - Data Cleaning, Transformation & ETL
+
 - Relational Database Design & SQL Scripting
-- Multi-format Data Deployment
-- Clean Architecture & Project Organization
+
+Multi-format Data Deployment
+
+Clean Architecture & Project Organization
