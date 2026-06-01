@@ -61,12 +61,13 @@ Created custom visual dashboards and charts to analyze pricing trends, brand dis
 
 As shown in the project setup, the repository follows a clean and professional architecture:
 
-├── 📁 Data/                # Cleaned datasets exported in CSV, Excel, and JSON formats.
-├── 📁 Databases/           # Relational database storage files (MySQL .sql script & SQLite .db file).
-├── 📁 Notebook/            # Core Jupyter Notebook containing the web scraping and Pandas pipeline.
-├── 📁 Dashboard/           # Contains all project visuals and documentation images (1.png to 8.png).
-├── 📄 Document.pdf         # Detailed project report and official documentation.
-└── 📄 README.md            # Project overview and guide (this file).
+```text
+├── Data/            # Cleaned datasets exported in CSV, Excel, and JSON formats.
+├── Databases/       # Relational database storage files (MySQL .sql script & SQLite .db file).
+├── Notebook/        # Core Jupyter Notebook containing the web scraping and Pandas pipeline.
+├── Dashboard/       # Contains all project visuals and documentation images (1.png to 8.png).
+├── Document.pdf     # Detailed project report and official documentation.
+└── README.md        # Project overview and guide (this file).
 
 ---
 
