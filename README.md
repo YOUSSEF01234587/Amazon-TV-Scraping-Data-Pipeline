@@ -77,6 +77,6 @@ As shown in the project setup, the repository follows a clean and professional a
 
 - Relational Database Design & SQL Scripting
 
-Multi-format Data Deployment
+- Multi-format Data Deployment
 
-Clean Architecture & Project Organization
+- Clean Architecture & Project Organization
